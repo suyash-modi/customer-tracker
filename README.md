@@ -1,4 +1,4 @@
-## Customer Journey Stitching (Single-CCTV, In-Session MVP) — OpenVINO + IoU Tracking + ReID
+## Customer Journey Stitching— OpenVINO + IoU Tracking + ReID
 
 Local demo that:
 - Detects **people** (`person-detection-retail-0013`)
